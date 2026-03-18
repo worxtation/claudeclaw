@@ -45,7 +45,7 @@ ClaudeClaw turns your Claude Code into a personal assistant that never sleeps. I
 ## Getting Started in 5 Minutes
 
 ```bash
-claude plugin marketplace add moazbuilds/claudeclaw
+claude plugin marketplace add worxtation/claudeclaw
 claude plugin install claudeclaw
 ```
 Then open a Claude Code session and run:
